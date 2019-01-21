@@ -1,0 +1,15 @@
+"No" "Acidobacteria" "Actinobacteria" "Bacteroidetes" "Chloroflexi" "Crenarchaeota" "Cyanobacteria" "Cyanobacteria.Chloroplast" "Deinococcus.Thermus" "Elusimicrobia" "Euryarchaeota" "Firmicutes" "Fusobacteria" "Gemmatimonadetes" "Lentisphaerae" "Planctomycetes" "Proteobacteria" "Spirochaetes" "SR1" "Synergistetes" "Tenericutes" "TM7" "Verrucomicrobia" "Unclassified"
+1 0 9 1408 0 0 0 0 0 0 0 544 0 0 0 0 27 0 0 0 0 0 0 12
+2 0 0 1689 0 0 0 0 0 0 0 221 0 0 0 0 52 0 0 0 0 0 35 3
+3 0 4 1274 0 0 0 0 0 0 0 694 12 0 0 0 13 0 0 0 0 1 0 2
+4 0 1 1493 0 0 0 0 0 0 0 473 0 0 2 0 26 0 0 0 0 0 0 5
+5 0 1 1537 0 0 0 0 0 0 0 422 0 0 0 0 39 0 0 0 0 0 0 1
+6 0 0 1547 0 0 0 0 0 0 0 117 0 0 0 0 328 0 0 0 0 0 0 8
+7 0 8 1240 0 0 0 0 0 0 0 675 0 0 0 0 16 0 0 0 0 0 50 11
+8 0 0 1204 0 0 0 0 0 0 0 655 0 0 35 0 63 0 0 6 0 0 0 37
+9 0 34 1514 0 0 0 0 0 0 0 238 0 0 86 0 124 0 0 0 0 0 0 4
+10 0 5 1163 0 0 0 0 0 0 0 748 0 0 0 0 60 0 0 0 0 0 0 24
+11 0 15 357 0 0 0 0 0 0 0 1472 0 0 0 0 20 0 0 0 0 0 119 17
+12 0 7 342 0 0 0 0 0 0 0 1098 0 0 0 0 125 0 0 0 0 0 399 29
+13 0 20 523 0 0 0 0 0 0 0 1224 0 0 0 0 35 0 0 1 0 0 170 27
+14 0 28 665 0 0 0 0 0 0 0 1229 0 0 0 0 17 0 0 0 0 1 17 43
